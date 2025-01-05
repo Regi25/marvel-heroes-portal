@@ -1,3 +1,22 @@
+# Marvel Heroes Portal
+
+**Marvel Heroes Portal** is a web application written in JavaScript that provides information about Marvel Universe characters. The data is fetched from the official [Marvel API](https://developer.marvel.com/).
+
+## Key Features
+
+- View a list of Marvel characters
+- Access detailed information about selected characters (description, comics, links, etc.)
+- Load additional data dynamically using the API
+
+## Technologies Used
+
+- **JavaScript**: Core programming language (with ES6+ features)
+- **React**: JavaScript library for building user interfaces
+- **Node.js**: Runtime environment used for managing dependencies and running development tools
+- **HTML**: Structure of the application
+- **CSS**: Styling the application
+- **Marvel API**: Source of character data
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
